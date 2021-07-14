@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(60, 61, 122);
+}
+
+.container{
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    font-size: 30px;
+
+  
+}
+
+.btn{
+background-color: rgb(81, 187, 81);
+width: 250px;
+padding: 10px;
+border: 1px ;
+border-radius: 50px;
+color: white;
+font-size: 20px;  
+
+}
